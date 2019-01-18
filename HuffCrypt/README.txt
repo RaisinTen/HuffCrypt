@@ -1,7 +1,7 @@
 APPLICATION TITLE: HuffCrypt
 
 PURPOSE OF APPLICATION: This application demonstrates the compression/decompression of files with
-						strictly ASCII characters via Huffman encryption/decompression technique.
+			strictly ASCII characters via Huffman encryption/decompression technique.
 
 DATE: 20/12/2018
 
