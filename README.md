@@ -3,7 +3,7 @@
 ## PURPOSE OF APPLICATION
 This application demonstrates the compression/decompression of files with strictly ASCII characters via Huffman encryption/decompression technique.
 
-## HOW TO START THIS APPLICATION
+## Compilation and Setup
 
 ### For Windows:
 	gcc -std=c99 -Ofast .\src\compressor\* .\src\decompressor\* .\src\huffcrypt.c -o HuffCrypt
