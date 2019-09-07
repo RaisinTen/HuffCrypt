@@ -5,7 +5,7 @@ This application demonstrates the compression/decompression of files with strict
 
 ## HOW TO START THIS APPLICATION
 
-#### For Windows:
+### For Windows:
 	gcc -std=c99 -Ofast .\src\compressor\* .\src\decompressor\* .\src\huffcrypt.c -o HuffCrypt
 
 ### For Linux:
